@@ -51,7 +51,7 @@
                 <nav>
                     <ul>
                         <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
-                        <li><a href="#"> <i class="fab fa-youtube"> </i>ESTUDIOS</a></li>
+                        <li><a href="proyectos.php"> <i class="fab fa-youtube"> </i>Proyectos</a></li>
                         <li class="menu-selected"><a href="#" class="text-menu-selected"> 
                             <i class="fas fa-file-alt"></i>INTERESANTE</a></li>
                         <li><a href="#"> <i class="fas fa-headset"></i> Contacto</a></li>
