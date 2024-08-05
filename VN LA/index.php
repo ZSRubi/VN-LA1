@@ -55,6 +55,8 @@
                         <li class="menu-selected"><a href="#" class="text-menu-selected"> 
                             <i class="fas fa-file-alt"></i>Blog</a></li>
                         <li><a href="#"> <i class="fas fa-headset"></i> Contacto</a></li>
+                        <li><a href="#" class="btn-login"><i class="fas fa-headset"></i> Inicia sesión</a></li>
+
                     </ul>
                 </nav>
 
