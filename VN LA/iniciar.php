@@ -26,7 +26,8 @@
 
         <nav>
             <ul>
-                <li><a href="index.php"> <i class="fas fa-home"></i> INCIO</a></li>
+            <li class="menu-selected"><a href="#" class="text-menu-selected"> 
+            <i class="fas fa-file-alt"></i>INICIO</a></li>
                
             </ul>
         </nav>
