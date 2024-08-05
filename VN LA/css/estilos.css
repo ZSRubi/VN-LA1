@@ -15,7 +15,7 @@ header{
     left: 0;
     width: 100%;
     height: 80px;
-    background: black;
+    background: rgb(0, 0, 0);
     box-shadow: 0 4px 25px -22px black;
     z-index: 2;
 }
@@ -33,9 +33,11 @@ header{
     justify-content: center;
     align-items: center;
 }
-
-.logo h1 b{
-    color: #ffffff;
+.logo h1{
+    color:white;
+}
+.logo  b{
+    color: green;
 }
 .btn-login {
     padding: 10px 20px;
@@ -46,7 +48,7 @@ header{
   }
 
   .btn-login:hover {
-    background-color: #0056b3; /* Un tono más oscuro del azul, si usas btn-primary */
+    background-color: #39b300; /* Un tono más oscuro del azul, si usas btn-primary */
   }
 
 .menu {
@@ -76,7 +78,7 @@ header{
     content: '';
     width: 100%;
     height: 4px;
-    background: #46a2fd;
+    background: #46fd55;
     position: absolute;
     top: 0;
     left: 0;
@@ -89,11 +91,11 @@ header{
 }
 
 .menu nav ul li a:hover{
-    color: #46a2fd;
+    color: #5bfd46;
 }
 
 .menu .text-menu-selected{
-    color: #46a2fd;
+    color: #6bfd46;
 }
 
 .menu nav ul li a i{
