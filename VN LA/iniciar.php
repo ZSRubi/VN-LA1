@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <link rel="stylesheet" href="css/estilos.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
@@ -14,7 +14,39 @@
     <link rel="stylesheet" href="./estilos/iniciar.css">
 
     <title>Inicia Sesion</title>
-    
+    <header>
+
+<div class="header-content">
+
+    <div class="logo">
+        <h1>VIENA INGENIEROS<b>.</b></h1>
+    </div>
+
+    <div class="menu" id="show-menu">
+
+        <nav>
+            <ul>
+                <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
+                <li><a href="proyectos.php"> <i class="fab fa-youtube"> </i>Proyectos</a></li>
+                <li class="menu-selected"><a href="#" class="text-menu-selected"> 
+                    <i class="fas fa-file-alt"></i>INTERESANTE</a></li>
+                <li><a href="#"> <i class="fas fa-headset"></i> Contacto</a></li>
+                <li><a href="iniciar.php" class="btn-login"><i class="fas fa-headset"></i> Inicia sesión</a></li>
+                <li><a href="registrate.php" class="btn-registro"><i class="fas fa-headset"></i> Registrate</a></li>
+
+            </ul>
+        </nav>
+
+    </div>
+
+</div>
+
+<div id="icon-menu">
+    <i class="fas fa-bars"></i>
+</div>
+
+</header>
+
 
   </head>
   <body>
