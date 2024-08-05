@@ -30,7 +30,7 @@ $error_message = isset($_GET['error']) && $_GET['error'] == 'password' ? 'Las co
 
     <link rel="stylesheet" href="./estilos/registrate.css">
    
-    <?php require 'head.php'?>   
+  
 </head>
 <body>
         <?php if ($error_message): ?>2
@@ -38,7 +38,7 @@ $error_message = isset($_GET['error']) && $_GET['error'] == 'password' ? 'Las co
         <?php endif; ?>
         <div class="inner">
             <div class="image-holder">
-                <img src="./image/img 2.jpg" alt="" class="registro01">
+                <img src="./img/img5.jpg" alt="" class="registro01">
                 <a href="Login.php">
                 </a>
             </div>
