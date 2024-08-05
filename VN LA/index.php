@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Diseño web tipo blog - para practica</title>
+    <title>VIENA INGENIEROS</title>
 
     <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
 
@@ -50,10 +50,10 @@
 
                 <nav>
                     <ul>
-                        <li><a href="#"> <i class="fas fa-home"></i> Inicio</a></li>
-                        <li><a href="#"> <i class="fab fa-youtube"> </i>Tutoriales</a></li>
+                        <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
+                        <li><a href="#"> <i class="fab fa-youtube"> </i>ESTUDIOS</a></li>
                         <li class="menu-selected"><a href="#" class="text-menu-selected"> 
-                            <i class="fas fa-file-alt"></i>Blog</a></li>
+                            <i class="fas fa-file-alt"></i>INTERESANTE</a></li>
                         <li><a href="#"> <i class="fas fa-headset"></i> Contacto</a></li>
                         <li><a href="#" class="btn-login"><i class="fas fa-headset"></i> Inicia sesión</a></li>
 
