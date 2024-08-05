@@ -25,6 +25,7 @@ header{
     margin: auto;
     display: flex;
     justify-content: space-between;
+    background: #a10d0d;
 }
 
 .logo{
