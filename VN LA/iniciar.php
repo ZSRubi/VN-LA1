@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="./estilos/iniciar.css">
 
     <title>Inicia Sesion</title>
-    <?php require 'head.php'?>
     
 
   </head>
