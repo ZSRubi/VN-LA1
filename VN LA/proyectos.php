@@ -31,38 +31,9 @@
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 </head>
-<header>
 
-<div class="header-content">
 
-    <div class="logo">
-        <h1>VIENA INGENIEROS<b>.</b></h1>
-    </div>
 
-    <div class="menu" id="show-menu">
-
-        <nav>
-            <ul>
-                <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
-                <li><a href="proyectos.php"> <i class="fab fa-youtube"> </i>Proyectos</a></li>
-                <li class="menu-selected"><a href="#" class="text-menu-selected"> 
-                    <i class="fas fa-file-alt"></i>INTERESANTE</a></li>
-                <li><a href="#"> <i class="fas fa-headset"></i> Contacto</a></li>
-                <li><a href="iniciar.php" class="btn-login"><i class="fas fa-headset"></i> Inicia sesión</a></li>
-                <li><a href="registrate.php" class="btn-registro"><i class="fas fa-headset"></i> Registrate</a></li>
-
-            </ul>
-        </nav>
-
-    </div>
-
-</div>
-
-<div id="icon-menu">
-    <i class="fas fa-bars"></i>
-</div>
-
-</header>
 
 
 <body>
