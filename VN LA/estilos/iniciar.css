@@ -1,0 +1,117 @@
+:root {
+    --color-dark: #15181f;
+    --color-dark-x: #2d343f;
+    --color-dark-xx: #1f232b;
+    --color-light: #ffffff;
+    --color-grey: #f5f6f8;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 200;
+    background-color: var(--color-grey);
+    color: var(--color-light);
+    letter-spacing: 0.05rem;
+}
+
+.bg-light {
+    background-color: var(--color-light) !important;
+}
+
+.bg-dark {
+    background-color: var(--color-dark) !important;
+}
+
+.p-6 {
+    padding: 3rem 4rem;
+    /* Reducido el padding para pantallas más pequeñas */
+}
+
+.contact-box {
+    padding: 2rem;
+    /* Reducido el padding para pantallas más pequeñas */
+}
+
+.btn {
+    font-weight: 400;
+    padding: 1rem 2rem;
+    border-radius: 5rem;
+    min-width: 10rem;
+}
+
+.btn-outline-dark {
+    border: 2px solid var(--color-dark-xx);
+}
+
+.form-control {
+    background-color: var(--color-dark-xx);
+    border: 2px solid var(--color-dark-xx);
+    border-radius: 0.2rem;
+    padding: 1.5rem 1rem;
+}
+
+.register-bg {
+    background-image: url('img/VIENA LOGO 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 0vh;
+    /* Reducido el tamaño de la imagen de fondo para pantallas más pequeñas */
+}
+
+@media (max-width: 575.98px) {
+    .p-6 {
+        padding: 2rem;
+    }
+    .contact-box {
+        padding: 1rem;
+        /* Reducido aún más el padding para dispositivos muy pequeños */
+    }
+    .width-100 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .register-bg {
+        min-height: 30vh;
+        /* Ajustado el tamaño de la imagen de fondo para tabletas */
+    }
+}
+
+h3,
+p {
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    /* Centrar horizontalmente el texto */
+    line-height: 1.5;
+    /* Ajustar la altura de línea para centrar verticalmente el texto */
+}
+
+h3,
+p {
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    /* Centrar horizontalmente el texto */
+    line-height: 1.5;
+    /* Ajustar la altura de línea para centrar verticalmente el texto */
+    font-size: 2rem;
+    /* Tamaño de fuente aumentado */
+}
+
+a {
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    /* Centrar horizontalmente el texto */
+    line-height: 1.5;
+    /* Ajustar la altura de línea para centrar verticalmente el texto */
+    font-size: 1rem;
+    /* Tamaño de fuente aumentado */
+}
+
+h1 {
+    color: white;
+}
