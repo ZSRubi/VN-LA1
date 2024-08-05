@@ -124,12 +124,8 @@
             <button class="prev"> < </button>
             <button class="next"> > </button>
         </div>
-
-
     </div>
 
- 
-   
     <!-- Más scripts según tus necesidades -->
     <script src="slyder.js"></script>
 </body>
