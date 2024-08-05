@@ -52,11 +52,11 @@
                     <ul>
                         <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
                         <li><a href="proyectos.php"> <i class="fab fa-youtube"> </i>PROYECTOS</a></li>
-                        <li class="menu-selected"><a href="#" class="text-menu-selected"> 
-                            <i class="fas fa-file-alt"></i>INTERESANTE</a></li>
+                        <li><a href="#"> <i class="fas fa-headset"></i> INTERESANTE</a></li>
                         <li><a href="#"> <i class="fas fa-headset"></i> CONTACTOS</a></li>
-                        <li><a href="iniciar.php" class="btn-login"><i class="fas fa-headset"></i> INICIAR SESION</a></li>
-                        <li><a href="registrate.php" class="btn-registro"><i class="fas fa-headset"></i> RESGISTRATE</a></li>
+                        <li class="menu-selected"><a href="iniciar.php" class="text-menu-selected"> 
+                            <i class="fas fa-file-alt"></i>INICIAR SESION</a></li>
+                        <li><a href="registrate.php" class="btn-registro"><i class="fas fa-headset"></i> REGISTRATE</a></li>
 
                     </ul>
                 </nav>

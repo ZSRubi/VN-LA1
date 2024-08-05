@@ -29,7 +29,34 @@ $error_message = isset($_GET['error']) && $_GET['error'] == 'password' ? 'Las co
     <link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
 
     <link rel="stylesheet" href="./estilos/registrate.css">
-   
+    <link rel="stylesheet" href="css/estilos.css">
+    <header>
+
+<div class="header-content">
+
+    <div class="logo">
+        <h1>VIENA INGENIEROS<b>.</b></h1>
+    </div>
+
+    <div class="menu" id="show-menu">
+
+        <nav>
+            <ul>
+            <li class="menu-selected"><a href="#" class="text-menu-selected"> 
+            <i class="fas fa-file-alt"></i>INICIO</a></li>
+               
+            </ul>
+        </nav>
+
+    </div>
+
+</div>
+
+<div id="icon-menu">
+    <i class="fas fa-bars"></i>
+</div>
+
+</header>
   
 </head>
 <body>
