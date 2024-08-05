@@ -55,7 +55,8 @@
                         <li class="menu-selected"><a href="#" class="text-menu-selected"> 
                             <i class="fas fa-file-alt"></i>INTERESANTE</a></li>
                         <li><a href="#"> <i class="fas fa-headset"></i> Contacto</a></li>
-                        <li><a href="#" class="btn-login"><i class="fas fa-headset"></i> Inicia sesión</a></li>
+                        <li><a href="iniciar.php" class="btn-login"><i class="fas fa-headset"></i> Inicia sesión</a></li>
+                        <li><a href="registrate.php" class="btn-registro"><i class="fas fa-headset"></i> Registrate</a></li>
 
                     </ul>
                 </nav>
