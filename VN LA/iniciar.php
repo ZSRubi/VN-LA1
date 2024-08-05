@@ -26,7 +26,7 @@
 
         <nav>
             <ul>
-            <li class="menu-selected"><a href="#" class="text-menu-selected"> 
+            <li class="menu-selected"><a href="index.php" class="text-menu-selected"> 
             <i class="fas fa-file-alt"></i>INICIO</a></li>
                
             </ul>
