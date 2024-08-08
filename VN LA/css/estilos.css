@@ -200,7 +200,7 @@ article:before{
     position: absolute;
     top: 0;
     left: 0;
-    background: #46a2fd;
+    background: #c90808;
 }
 
 article h1{
@@ -209,10 +209,11 @@ article h1{
     font-size: 40px;
 }
 
+
 article p{
     margin-top: 20px;
     font-size: 18px;
-    color: #3c3c3c;
+    color: #dd0d0d;
 }
 
 article img{
@@ -241,6 +242,7 @@ article img{
 .container-aside aside p{
     margin-top: 20px;
     padding: 0px 20px;
+    background: black;
 }
 
 .container-aside aside button{
@@ -248,9 +250,9 @@ article img{
     margin-left: 20px;
     padding: 10px 50px;
     font-size: 16px;
-    background: #46a2fd;
+    background: #cc1913;
     border: none;
-    color: #fff;
+    color: black;
     cursor: pointer;
     border-radius: 6px;
 }
@@ -303,20 +305,7 @@ article img{
     color: #a2a2a2;
 }
 
-footer .redes-footer .fa-facebook-f:hover{
-    background: #41579A;
-    color: #fff;
-}
 
-footer .redes-footer .fa-google-plus-g:hover{
-    background: #DE4C34;
-    color: #fff;
-}
-
-footer .redes-footer .fa-instagram:hover{
-    background: linear-gradient(to top right, #FCDE30, #E9712A, #D2313B, #AE4198, #7540A1, #5443A8);
-    color: #fff;
-}
 
 
 .container-footer footer hr{
@@ -427,7 +416,7 @@ footer .redes-footer .fa-instagram:hover{
         width: 20px;
         display: inline-block;
         margin-right: 10px;
-        color: #46a2fd;
+        color: #be3320;
     }
 
     #icon-menu{
