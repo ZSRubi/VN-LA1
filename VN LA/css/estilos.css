@@ -187,7 +187,7 @@ article{
     width: 100%;
     padding: 20px;
     padding-bottom: 40px;
-    box-shadow: -10px 0 20px -30px black;
+    box-shadow: -10px 0 20px -30px rgb(194, 26, 26);
     border-radius: 6px;
     position: relative;
     overflow: hidden;    
@@ -213,7 +213,7 @@ article h1{
 article p{
     margin-top: 20px;
     font-size: 18px;
-    color: #dd0d0d;
+    color: black;
 }
 
 article img{
