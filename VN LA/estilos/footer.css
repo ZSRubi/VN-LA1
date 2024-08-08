@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.full-width-image {
+    width: 100%;
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Elimina el espacio en blanco debajo de la imagen */
+}
 
 body {
     font-family: 'Exo 2', sans-serif;
