@@ -62,8 +62,10 @@
                 <div class="content">
                     <div class="title"><h2>I.E ALMA MATER</h2></div>
                     <div class="type"><h3></h3></div>
+                    <br>
+                    <br>
                     <div class="description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
+                    <h1>Elaboracion de Expediente tecnico Alma Mater</h1>
                     </div>
                     <div class="button">
                         <button>MAS</button>
