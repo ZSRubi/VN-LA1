@@ -32,7 +32,7 @@
             height: 90%;
             transform: translateX(-50%);
             content: '';
-            background-image: url(sc/images/bg.png);
+            background-image: url(zimages/bg.png);
             background-size: 100%;
             background-repeat: no-repeat;
             background-position: top center;
@@ -57,8 +57,8 @@
             <div class="item" style="--position: 10"><img src="sc/images/dragon_10.jpg" alt=""></div>
         </div>
         <div class="content">
-            <h1 data-content="TRABAJAMOS">
-                TRABAJAMOS
+            <h1 data-content="viena">
+                viena
             </h1>
             <h2>SERVICIOS CON VIENA INGENIEROS</h2>
                 
