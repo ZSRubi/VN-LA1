@@ -18,6 +18,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer"
     />
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+
 
 
   <!-- Google Fonts -->
@@ -81,37 +83,68 @@
             <h1>¡Todo es posible!</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aliquam quis fuga beatae blanditiis assumenda.</p>
         </div>
-    </div>
+</div >
 
     <div class="container-content">
         <article>
 
-            <h1>Titulo del articulo</h1>
+        <h1>¿QUIÉNES SOMOS?</h1>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At ipsum velit earum quam culpa nostrum, totam, a, veritatis laborum sunt optio fuga sint placeat. Ad, aliquid a accusamus maxime harum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi modi, rem obcaecati ipsum repellendus beatae totam reiciendis nemo, laudantium aliquam, praesentium quod! Odio optio, quasi eligendi atque dolorum voluptas odit! ipsum dolor sit amet, consectetur adipisicing elit. Odio nulla quia, doloribus minus, et rerum autem ducimus quam quidem eius id fugiat aut? Sapiente asperiores, quia facere quam, eligendi itaque. ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem reiciendis, culpa voluptatem nesciunt necessitatibus quis architecto odit blanditiis, sapiente illum, animi eius voluptatum laborum commodi delectus voluptatibus obcaecati distinctio. Quas. ipsum dolor sit amet, consectetur adipisicing elit. Similique expedita aliquid officiis adipisci repellat quis odit laboriosam, veritatis fuga, voluptatum iusto in perspiciatis explicabo, distinctio nisi ullam ut quas culpa officia, unde rem earum. Omnis minus aspernatur beatae asperiores laboriosam! Magni ducimus qui, aliquid modi ex autem unde corporis harum.</p>
+<p>VIENA INGENIEROS S.A.C. es una empresa consultora peruana especializada
+en la elaboración de Expedientes Técnicos de Ingeniería a nivel definitivo y en
+brindar Servicios de Ingeniería que garanticen el desarrollo óptimo de
+Proyectos de Infraestructura en sus diferentes etapas</p>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos ipsam nulla, neque necessitatibus porro quibusdam unde ipsa veritatis. Consequuntur voluptates, maxime magnam est facere tempora corporis ad voluptatibus dicta iure! ipsum dolor sit amet, consectetur adipisicing elit. Animi ducimus sit in deserunt delectus libero non quo sed asperiores, dicta veritatis vero eum, ea voluptas. Repudiandae reprehenderit ut, fuga pariatur? ipsum dolor sit amet, consectetur adipisicing elit. Similique, debitis sit doloribus, eveniet, quibusdam deserunt provident quas magnam repudiandae dolor autem itaque nostrum dignissimos cupiditate hic porro minima, harum? Illo. ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, ea.</p>
 
-                <h1>Subtitulo del articulo</h1>
+            <p>Enfocamos nuestras actividades en los siguientes sectores:</p>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos ipsam nulla, neque necessitatibus porro quibusdam unde ipsa veritatis. Consequuntur voluptates, maxime magnam est facere tempora corporis ad voluptatibus dicta iure! ipsum dolor sit amet, consectetur adipisicing elit. Animi ducimus sit in deserunt delectus libero non quo sed asperiores, dicta veritatis vero eum, ea voluptas. Repudiandae reprehenderit ut, fuga pariatur? ipsum dolor sit amet, consectetur adipisicing elit. Similique, debitis sit doloribus, eveniet, quibusdam deserunt provident quas magnam repudiandae dolor autem itaque nostrum dignissimos cupiditate hic porro minima, harum? Illo. ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, ea.</p>
+              
 
-                <img src="img/img2.jpg" alt="">
+            <img src="image/vn.png" alt="Imagen representativa" class="article-img mb-4">
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos ipsam nulla, neque necessitatibus porro quibusdam unde ipsa veritatis. Consequuntur voluptates, maxime magnam est facere tempora corporis ad voluptatibus dicta iure! ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                <p>Contamos con un equipo multidisciplinario de profesionales con amplia
+                experiencia en el desarrollo de Estudios y Proyectos de Ingeniería, orientado a brindar un servicio eficiente y de calidad. </p>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae id nam incidunt quam corrupti, vitae numquam aliquid qui, sit libero hic nesciunt iste repudiandae, quae debitis, deleniti cupiditate. Iste, iusto? ipsum dolor sit amet, consectetur adipisicing elit. Quos ipsam nulla, neque necessitatibus porro quibusdam unde ipsa veritatis. Consequuntur voluptates, maxime magnam est facere tempora corporis ad voluptatibus dicta iure! ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                <p>Ponemos énfasis en la precisión y mejora continua de nuestros
+procesos, los cuales se basan en normas y metodologías
+acordes con el desarrollo científico y tecnológico de la
+Ingeniería, tomando en cuenta su importancia para la
+seguridad de nuestros clientes y sus inversiones.
+</p>
+<h1>VISIÓN</h1>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos ipsam nulla, neque necessitatibus porro quibusdam unde ipsa veritatis. Consequuntur voluptates, maxime magnam est facere tempora corporis ad voluptatibus dicta iure! ipsum dolor sit amet, consectetur adipisicing elit. </p>
+<p>Ser la empresa consultora de Ingeniería
+líder del Sur del Perú, reconocida por la
+calidad y eficiencia de nuestros servicios.
+</p>
+<h1>MISIÓN</h1>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos ipsam nulla, neque necessitatibus porro quibusdam unde ipsa veritatis. Consequuntur voluptates, maxime magnam est facere tempora corporis ad voluptatibus dicta iure! ipsum dolor sit amet, consectetur adipisicing elit. </p>
+<p>Proveer el mejor servicio, brindando a nuestros clientes soluciones
+integrales de Ingeniería con un compromiso profesional de calidad
+y seguridad total, que garantice la sostenibilidad de sus proyectos
+y permita optimizar los beneficios económicos de sus inversiones.
+
+</p>
+<h1>NUESTRO VALORES</h1>
+
+<p>Nuestro equipo está comprometido con brindar la asistencia técnica requerida por
+nuestros clientes, con quienes nos interesa establecer relaciones sólidas y de largo plazo
+cimentadas en los siguientes valores:
+</p>
+
+
+<img src="image/v2.png" alt="Imagen representativa" class="article-img mb-4">
+     
+                
         </article>
 
         <div class="container-aside">	
 
             <aside>
-                <img src="img/img6.jpg" alt="">
-                <h2>Titulo del articulo</h2>
+                <img src="image/V4.png" alt="">
+                <h2>Un proyecto eco amigable es aquel que incorpora
+criterios de sostenibilidad en su diseño y construcción,
+disminuyendo así el impacto sobre el medio ambiente.</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quo, vel officiis voluptas minima at totam provident cupiditate ad consectetur!</p>
                 <a href="#"><button>leer más</button></a>
             </aside>
@@ -133,11 +166,16 @@
         </div>
     </div>
 
+   
+
     <footer class="pie">
+   
   <div class="header">
+
     <div class="logo">
-      <img src="./img/viena logo 1.png" alt="">
-      <p class="logotipo">VIENA INGENIEROS</p>
+      <img src="image/VIENA LOGO 1.png" alt="">
+      <p class="logotipo">V
+        IENA INGENIEROS</p>
     </div>
     <div class="redes">
       <span class="fb"><a href="https://www.facebook.com/share/p/km9i8R5i9HFm7g9F/" target="_blank"><i class="fab fa-facebook"></i></a></span>
@@ -188,5 +226,6 @@
 </div>
 
     <script src="js/script.js"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
