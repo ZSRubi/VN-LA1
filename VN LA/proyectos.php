@@ -45,8 +45,8 @@
                 <img src="./image/imagen01.jpg" alt="">
 
                 <div class="content">
-                    <div class="title">VIENA INGENIEROS</div>
-                    <div class="type"><h1>SAC</h1></div>
+                    <div class="title"><h2>VIENA INGENIEROS</h2></div>
+                    <div class="type"><h3>SAC</h3></div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
@@ -60,8 +60,8 @@
                 <img src="./image/imagen02.jpg" alt="">
 
                 <div class="content">
-                    <div class="title">MAGIC SLIDER</div>
-                    <div class="type">NATURE</div>
+                    <div class="title"><h2>VIENA INGENIEROS</h2></div>
+                    <div class="type"><h3>SAC</h3></div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
@@ -75,8 +75,8 @@
                 <img src="./image/imagen03.jpg" alt="">
 
                 <div class="content">
-                    <div class="title">MAGIC SLIDER</div>
-                    <div class="type">PLANT</div>
+                    <div class="title">VIENA INGENIEROS</div>
+                    <div class="type">SAC</div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
@@ -90,8 +90,8 @@
                 <img src="./image/imagen04.png" alt="">
 
                 <div class="content">
-                    <div class="title">MAGIC SLIDER</div>
-                    <div class="type">NATURE</div>
+                    <div class="title">VIENA INGENIEROS</div>
+                    <div class="type">SAC</div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
