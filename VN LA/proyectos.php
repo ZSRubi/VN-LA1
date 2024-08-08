@@ -57,11 +57,11 @@
             </div>
 
             <div class="item">
-                <img src="./image/imagen02.jpg" alt="">
+                <img src="./image/alma mater.jpg" alt="">
 
                 <div class="content">
-                    <div class="title"><h2>VIENA INGENIEROS</h2></div>
-                    <div class="type"><h3>SAC</h3></div>
+                    <div class="title"><h2>I.E ALMA MATER</h2></div>
+                    <div class="type"><h3></h3></div>
                     <div class="description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
@@ -110,7 +110,7 @@
                 <img src="./image/imagen01.jpg" alt="">
             </div>
             <div class="item">
-                <img src="./image/imagen02.jpg" alt="">
+                <img src="./image/alma mater.jpg" alt="">
             </div>
             <div class="item">
                 <img src="./image/imagen03.jpg" alt="">
