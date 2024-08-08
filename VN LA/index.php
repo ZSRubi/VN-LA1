@@ -141,26 +141,25 @@ cimentadas en los siguientes valores:
 
             <aside>
                 <img src="image/V4.png" alt="">
-                <h2>Un proyecto eco amigable es aquel que incorpora
+               
+                <p>Un proyecto eco amigable es aquel que incorpora
 criterios de sostenibilidad en su diseño y construcción,
-disminuyendo así el impacto sobre el medio ambiente.</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quo, vel officiis voluptas minima at totam provident cupiditate ad consectetur!</p>
+disminuyendo así el impacto sobre el medio ambiente.</p>
                 <a href="#"><button>leer más</button></a>
             </aside>
 
             <aside>
-                <img src="img/img1.jpg" alt="">
-                <h2>Titulo del articulo</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quo, vel officiis voluptas minima at totam provident cupiditate ad consectetur! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellat ullam quos totam aliquid atque porro culpa vitae odit eum quidem molestias, explicabo ea accusamus sequi facere fuga alias doloremque. </p>
-                
+            <h2>CONSULTORIA</h2>
+            <P>
+              
+            </P>
+            <img src="image/V6.png" alt="">
+            <img src="image/V7.png" alt="">
+            <img src="image/V8.png" alt="">
+               
             </aside>
 
-            <aside>
-                <img src="img/img4.jpg" alt="">
-                <h2>Titulo del articulo</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quo, vel officiis voluptas minima at totam provident cupiditate ad consectetur!</p>
-                <a href="#"><button>leer más</button></a>
-            </aside>
+           
 
         </div>
     </div>
