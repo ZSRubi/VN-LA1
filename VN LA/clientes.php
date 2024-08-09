@@ -4,7 +4,9 @@
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
-     <title>Lightbox | Materialize</title>
+     <title>NUESTROS CLIENTES</title>
+     <link href="./image/VIENA LOGO 1.png" rel="icon">
+  <link href="./image/VIENA LOGO 1.png" rel="apple-touch-icon">
      
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
@@ -15,7 +17,7 @@
      <main class="container">
           <div class="row">
                <div class="col s12 center-align">
-                    <h1 class="titulo">Lightbox</h1>
+                    <h1 class="titulo">NUESTROS CLIENTES</h1>
                </div>
           </div>
 
