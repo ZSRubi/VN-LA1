@@ -47,7 +47,8 @@
                <div class="material-placeholder"><img src="./LOGO/MOLY.png" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
                <br>
                <div class="material-placeholder"><img src="./LOGO/muniyura.png" alt="" class="responsive-img materialboxed" data-caption="MUNICIPALIDAD DISTRITAL D3 YURA."></div>
-               
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/CUMBRES.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
           </div>
                
                <div class="col s12 m4 l3">
@@ -59,6 +60,8 @@
                <div class="material-placeholder"><img src="./LOGO/IN.png" alt="" class="responsive-img materialboxed" data-caption="INTERSUR"></div>
                <br>
                <div class="material-placeholder"><img src="./LOGO/yura.jpg" alt="" class="responsive-img materialboxed" data-caption="CEMENTO YURA."></div>
+          <br>
+          <div class="material-placeholder"><img src="./LOGO/sade.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
           </div>
                
                <div class="col s12 m4 l3">
@@ -72,24 +75,12 @@
                     <div class="material-placeholder"><img src="./LOGO/GL.png" alt="" class="responsive-img materialboxed" data-caption="GLORIA"></div>
                </div>
 
-               
-
-          
-               
-
-
-               
-               
-            
-
-             
-
-               <div class="col s12 m4 l3">
+ <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/MITSUI.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
                </div>
 
-               <div class="material-placeholder"><img src="./LOGO/sade.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
-               <div class="material-placeholder"><img src="./LOGO/CUMBRES.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
+              
+              
               
 
           </div>
