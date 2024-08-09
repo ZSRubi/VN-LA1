@@ -50,11 +50,11 @@
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/6.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/arequipa.png" alt="" class="responsive-img materialboxed" data-caption="AREQUIPA ."></div>
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/7.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/gobi.png" alt="" class="responsive-img materialboxed" data-caption="GOBIERNO DE AREQUIPA"></div>
                </div>
                
                <div class="col s12 m4 l3">
