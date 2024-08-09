@@ -30,11 +30,10 @@
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder">
-<<<<<<< HEAD
+
                          <img src="./LOGO/ya.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit.">
-=======
+
                          <img src="./LOGO/LV.png" alt="" class="responsive-img materialboxed" data-caption="LIVIT">
->>>>>>> f81863a12ea32b32f482cc00d2b99dc9e2a1ee99
                     </div>
                </div>
                
@@ -63,7 +62,7 @@
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/molycop.jpg" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
+                    <div class="material-placeholder"><img src="./LOGO/MOLY.png" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
                </div>
                
                <div class="col s12 m4 l3">
