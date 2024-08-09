@@ -3,7 +3,7 @@
 /* ------------------------- */
 
 body {
-     background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+     background-image: linear-gradient(135deg, #c43e1d 0%,#e9dcd9 50%, #251406 100%);
 }
 
 .titulo {
@@ -27,7 +27,7 @@ body {
      background: #000;
      box-shadow: 5px 5px #fff;
      font-size: 20px;
-     color: #fff;
+     color: #df0909;
      line-height: 28px;
 }
 
