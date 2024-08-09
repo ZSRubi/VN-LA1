@@ -45,7 +45,10 @@
                     <div class="material-placeholder"><img src="./LOGO/MQ.png" alt="" class="responsive-img materialboxed" data-caption="MARQUISA"></div>
                <br>
                <div class="material-placeholder"><img src="./LOGO/MOLY.png" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
-               </div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/muniyura.png" alt="" class="responsive-img materialboxed" data-caption="MUNICIPALIDAD DISTRITAL D3 YURA."></div>
+               
+          </div>
                
                <div class="col s12 m4 l3">
                     
@@ -54,16 +57,13 @@
                <div class="material-placeholder"><img src="./LOGO/SK.png" alt="" class="responsive-img materialboxed" data-caption="SIKA"></div>
                <br>
                <div class="material-placeholder"><img src="./LOGO/IN.png" alt="" class="responsive-img materialboxed" data-caption="INTERSUR"></div>
-               </div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/yura.jpg" alt="" class="responsive-img materialboxed" data-caption="CEMENTO YURA."></div>
+          </div>
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/CS.png" alt="" class="responsive-img materialboxed" data-caption="CASA"></div>
                </div>
-               
-
-               
-              
-               
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/gobi.png" alt="" class="responsive-img materialboxed" data-caption="GOBIERNO DE AREQUIPA"></div>
                </div>
@@ -80,13 +80,9 @@
 
                
                
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/yura.jpg" alt="" class="responsive-img materialboxed" data-caption="CEMENTO YURA."></div>
-               </div>
+            
 
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/muniyura.png" alt="" class="responsive-img materialboxed" data-caption="MUNICIPALIDAD DISTRITAL D3 YURA."></div>
-               </div>
+             
 
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/MITSUI.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
