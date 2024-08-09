@@ -188,6 +188,10 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
     <div>
       <h2>Compañia</h2>
       <a href="#">Inicio</a>
+      <a href="#">Reservas</a>
+      <a href="proyectos.php">Proyectos</a>
+      <a href="">Servicios</a>
+      <a href="registrate.php">Registrate </a>
     </div>
     <div>
       <h2>Ubicación</h2>
@@ -196,13 +200,15 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
     </div>
   
     <div>
-      <h2>Subscribe</h2>
+      <h2>Facilidades</h2>
       <a href="https://wa.me/+51962945890?text=Hola%2C%20quisiera%20pedir%20mas%20informacion%21" class="whatsapp-button" target="_blank">
         <i class="fab fa-whatsapp"></i>
       </a>
       <form action="">
-        <input type="text" placeholder="Enter your Email">
-        <button type="submit">Subscribe</button>
+        <a href="#">Disponibilidad las 24 horas</a>
+        <a href="#">Wi-Fi disponible</a>
+
+
       </form>
     </div>
   </div>
