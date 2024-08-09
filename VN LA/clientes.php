@@ -32,7 +32,9 @@
                     <div class="material-placeholder"><img src="./LOGO/SP.png" alt="" class="responsive-img materialboxed" data-caption="SUPERMIX"></div>
                <br>
                <div class="material-placeholder"><img src="./LOGO/CHILI.png" alt="" class="responsive-img materialboxed" data-caption="CHILINA."></div>
-               </div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/la joya.png" alt="" class="responsive-img materialboxed" data-caption="LA JOYA MINIG SAC."></div>
+          </div>
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"> <img src="./LOGO/LV.png" alt="" class="responsive-img materialboxed" data-caption="LIVIT">
@@ -41,6 +43,8 @@
                     <div class="material-placeholder"><img src="./LOGO/arequipa.png" alt="" class="responsive-img materialboxed" data-caption="AREQUIPA ."></div>
                     <br>
                     <div class="material-placeholder"><img src="./LOGO/MQ.png" alt="" class="responsive-img materialboxed" data-caption="MARQUISA"></div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/MOLY.png" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
                </div>
                
                <div class="col s12 m4 l3">
@@ -72,13 +76,8 @@
 
           
                
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/MOLY.png" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
-               </div>
-               
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/la joya.png" alt="" class="responsive-img materialboxed" data-caption="LA JOYA MINIG SAC."></div>
-               </div>
+
+
                
                
                <div class="col s12 m4 l3">
