@@ -48,7 +48,7 @@
                <br>
                <div class="material-placeholder"><img src="./LOGO/muniyura.png" alt="" class="responsive-img materialboxed" data-caption="MUNICIPALIDAD DISTRITAL D3 YURA."></div>
                <br>
-               <div class="material-placeholder"><img src="./LOGO/CUMBRES.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
+               <div class="material-placeholder"><img src="./LOGO/CUMBRES.png" alt="" class="responsive-img materialboxed" data-caption="CUMBRES."></div>
           </div>
                
                <div class="col s12 m4 l3">
@@ -61,7 +61,7 @@
                <br>
                <div class="material-placeholder"><img src="./LOGO/yura.jpg" alt="" class="responsive-img materialboxed" data-caption="CEMENTO YURA."></div>
           <br>
-          <div class="material-placeholder"><img src="./LOGO/sade.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
+          <div class="material-placeholder"><img src="./LOGO/sade.png" alt="" class="responsive-img materialboxed" data-caption="SADE."></div>
           </div>
                
                <div class="col s12 m4 l3">
