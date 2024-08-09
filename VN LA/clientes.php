@@ -26,32 +26,39 @@
                     <div class="material-placeholder">
                          <img src="./LOGO/VRD.png" alt="" class="responsive-img materialboxed" data-caption="CERRO VERDE">
                     </div>
+                    <br>
+                    <img src="./LOGO/abengoa.JPg" alt="" class="responsive-img materialboxed" data-caption="ABENGOA">
+                    <br>
+                    <div class="material-placeholder"><img src="./LOGO/SP.png" alt="" class="responsive-img materialboxed" data-caption="SUPERMIX"></div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/CHILI.png" alt="" class="responsive-img materialboxed" data-caption="CHILINA."></div>
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder">
-
-                         <img src="./LOGO/ya.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit.">
-
-                         <img src="./LOGO/LV.png" alt="" class="responsive-img materialboxed" data-caption="LIVIT">
+                    <div class="material-placeholder"> <img src="./LOGO/LV.png" alt="" class="responsive-img materialboxed" data-caption="LIVIT">
                     </div>
+                    <br>
+                    <div class="material-placeholder"><img src="./LOGO/arequipa.png" alt="" class="responsive-img materialboxed" data-caption="AREQUIPA ."></div>
+                    <br>
+                    <div class="material-placeholder"><img src="./LOGO/MQ.png" alt="" class="responsive-img materialboxed" data-caption="MARQUISA"></div>
                </div>
                
                <div class="col s12 m4 l3">
+                    
                     <div class="material-placeholder"><img src="./LOGO/CO.png" alt="" class="responsive-img materialboxed" data-caption="COVISUR"></div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/SK.png" alt="" class="responsive-img materialboxed" data-caption="SIKA"></div>
+               <br>
+               <div class="material-placeholder"><img src="./LOGO/IN.png" alt="" class="responsive-img materialboxed" data-caption="INTERSUR"></div>
                </div>
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/CS.png" alt="" class="responsive-img materialboxed" data-caption="CASA"></div>
                </div>
                
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/SK.png" alt="" class="responsive-img materialboxed" data-caption="SIKA"></div>
-               </div>
+
                
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/arequipa.png" alt="" class="responsive-img materialboxed" data-caption="AREQUIPA ."></div>
-               </div>
+              
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/gobi.png" alt="" class="responsive-img materialboxed" data-caption="GOBIERNO DE AREQUIPA"></div>
@@ -61,17 +68,9 @@
                     <div class="material-placeholder"><img src="./LOGO/GL.png" alt="" class="responsive-img materialboxed" data-caption="GLORIA"></div>
                </div>
 
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/MQ.png" alt="" class="responsive-img materialboxed" data-caption="MARQUISA"></div>
-               </div>
+               
 
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/SP.png" alt="" class="responsive-img materialboxed" data-caption="SUPERMIX"></div>
-               </div>
-
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/IN.png" alt="" class="responsive-img materialboxed" data-caption="INTERSUR"></div>
-               </div>
+          
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/MOLY.png" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
@@ -81,9 +80,6 @@
                     <div class="material-placeholder"><img src="./LOGO/la joya.png" alt="" class="responsive-img materialboxed" data-caption="LA JOYA MINIG SAC."></div>
                </div>
                
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/abengoa.jpg" alt="" class="responsive-img materialboxed" data-caption="ABENGOA."></div>
-               </div>
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"><img src="./LOGO/yura.jpg" alt="" class="responsive-img materialboxed" data-caption="CEMENTO YURA."></div>
@@ -97,9 +93,7 @@
                     <div class="material-placeholder"><img src="./LOGO/MITSUI.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
                </div>
 
-               <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/CHILI.png" alt="" class="responsive-img materialboxed" data-caption="CHILINA."></div>
-               </div>
+              
 
           </div>
      </main>
