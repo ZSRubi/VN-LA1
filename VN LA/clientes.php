@@ -93,6 +93,8 @@
                     <div class="material-placeholder"><img src="./LOGO/MITSUI.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
                </div>
 
+               <div class="material-placeholder"><img src="./LOGO/sade.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
+               <div class="material-placeholder"><img src="./LOGO/CUMBRES.png" alt="" class="responsive-img materialboxed" data-caption="MITSUI."></div>
               
 
           </div>
