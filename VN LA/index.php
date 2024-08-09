@@ -186,24 +186,15 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
   <hr>
   <div class="section">
     <div>
-      <h2>Company</h2>
-      <a href="#">Home</a>
-      <a href="#">Contact Us</a>
-      <a href="#">About Us</a>
-      <a href="#">Get Started</a>
+      <h2>Compañia</h2>
+      <a href="#">Inicio</a>
     </div>
     <div>
       <h2>Ubicación</h2>
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d957.0075613202561!2d-71.54509783051022!3d-16.37242161229889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91424a3cc1db762d%3A0x87023f3332c63b38!2sAv.%20Bolognesi%20900%2C%20Arequipa%2004017!5e0!3m2!1ses-419!2spe!4v1721662250130!5m2!1ses-419!2spe" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       <p>Calle Principal 123, Arequipa</p>
     </div>
-    <div>
-      <h2>Services</h2>
-      <a href="#">App Design</a>
-      <a href="#">Web Design</a>
-      <a href="#">Logo Design</a>
-      <a href="#">Banner Design</a>
-    </div>
+  
     <div>
       <h2>Subscribe</h2>
       <a href="https://wa.me/+51962945890?text=Hola%2C%20quisiera%20pedir%20mas%20informacion%21" class="whatsapp-button" target="_blank">
