@@ -30,7 +30,7 @@
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder">
-                         <img src="./img/2.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit.">
+                         <img src="./LOGO/ya.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit.">
                     </div>
                </div>
                
@@ -59,19 +59,19 @@
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/9.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/molycop.jpg" alt="" class="responsive-img materialboxed" data-caption="MOLY COP."></div>
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/10.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/la joya.png" alt="" class="responsive-img materialboxed" data-caption="LA JOYA MINIG SAC."></div>
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/11.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/abengoa.jpg" alt="" class="responsive-img materialboxed" data-caption="ABENGOA."></div>
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/12.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/yura.jpg" alt="" class="responsive-img materialboxed" data-caption="CEMENTO YURA."></div>
                </div>
           </div>
      </main>
