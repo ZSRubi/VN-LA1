@@ -47,7 +47,7 @@
                </div>
                
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./img/5.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
+                    <div class="material-placeholder"><img src="./LOGO/SK.png" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit."></div>
                </div>
                
                <div class="col s12 m4 l3">
