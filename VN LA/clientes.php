@@ -24,7 +24,7 @@
           <div class="row galeria">
                <div class="col s12 m4 l3">
                     <div class="material-placeholder">
-                         <img src="./img/1.jpg" alt="" class="responsive-img materialboxed" data-caption="Lorem ipsum dolor sit amet, consectetur adipisicing elit.">
+                         <img src="./LOGO/VRD.png" alt="" class="responsive-img materialboxed" data-caption="CERRO VERDE">
                     </div>
                </div>
                
@@ -77,6 +77,6 @@
      </main>
 
      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-     <script src="js/main.js"></script>
+     <script src="main.js"></script>
 </body>
 </html>
