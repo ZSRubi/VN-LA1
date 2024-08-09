@@ -55,6 +55,7 @@
                         <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
                         <li><a href="proyectos.php"> <i class="fa fa-server"> </i>PROYECTOS</a></li>
                         <li><a href="socios.php"> <i class="fa fa-diamond"></i> SERVICIOS</a></li>
+                        <li><a href="socios.php"> <i class="fa fa-diamond"></i> NUESTROS CLIENTES</a></li>
                         <li class="menu-selected"><a href="iniciar.php" class="text-menu-selected"> 
                             <i class="fa fa-address-card"></i>INICIAR SESION</a></li>
                         <li><a href="registrate.php" class="btn-registro"><i class="fas fa-headset"></i> REGISTRATE</a></li>
