@@ -48,7 +48,7 @@
                     <div class="title"><h2>VIENA INGENIEROS</h2></div>
                     <div class="type"><h3>SAC</h3></div>
                     <div class="description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
+                        hola m ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
                     <div class="button">
                         <button>MAS</button>
