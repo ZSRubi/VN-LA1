@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <title>VIENA INGENIEROS</title>
 
-    <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+    <script src="https
+    
+    
+    ://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="estilos/footer.css">
