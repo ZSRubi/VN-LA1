@@ -83,8 +83,8 @@
     
     <div class="container-cover">
         <div class="container-info-cover">
-            <h1>¡Todo es posible!</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aliquam quis fuga beatae blanditiis assumenda.</p>
+            <h1>VIENA INGENIEROS</h1>
+            <p><h2>Consultores en Ingeniería Civil</h2></p>
         </div>
 </div >
 
