@@ -162,25 +162,18 @@
                 <label for="service">Seleccionar un servicio:</label>
                 <select id="service">
                     <option value="topografia">Topografía</option>
+                    <option value="topografia">Geomática</option>
+                    <option value="topografia">Evaluacion de Pavimentos</option>
+                    <option value="topografia">Señalización y Seguridad Vial</option>
                 </select>
             </div>
             <div class="form-group">
                 <label for="date">Fecha:</label>
-                <input type="text" id="date" value="agosto 16°" readonly>
+                <input type="date" id="date">
             </div>
             <div class="form-group">
                 <label for="time">Hora:</label>
-                <select id="time">
-                    <option value="10:30 AM">10:30 AM</option>
-                    <option value="10:45 AM">10:45 AM</option>
-                    <option value="11:00 AM">11:00 AM</option>
-                    <option value="11:15 AM">11:15 AM</option>
-                    <option value="11:30 AM">11:30 AM</option>
-                    <option value="11:45 AM">11:45 AM</option>
-                    <option value="12:00 PM">12:00 PM</option>
-                    <option value="12:15 PM">12:15 PM</option>
-                    <option value="12:30 PM">12:30 PM</option>
-                </select>
+                <input type="text" id="time" readonly>
             </div>
             <div class="time-slots">
                 <button type="button" class="time-slot" value="10:30 AM">10:30 AM</button>
@@ -199,8 +192,19 @@
     <script>
         // Selecciona todos los botones de hora
         const timeSlots = document.querySelectorAll('.time-slot');
-        // Selecciona el elemento select para la hora
-        const selectedTime = document.getElementById('time');
+        // Selecciona el campo de texto para la hora
+        const timeInput = document.getElementById('time');
+        // Selecciona el campo de fecha
+        const dateInput = document.getElementById('date');
+
+        // Función para establecer la fecha actual
+        function setCurrentDate() {
+            const today = new Date().toISOString().split('T')[0]; // Obtener la fecha en formato YYYY-MM-DD
+            dateInput.value = today; // Establecer el valor del campo de fecha
+        }
+
+        // Llamar a la función para establecer la fecha actual cuando la página se cargue
+        document.addEventListener('DOMContentLoaded', setCurrentDate);
 
         // Añade un evento de clic a cada botón de hora
         timeSlots.forEach(slot => {
@@ -211,8 +215,8 @@
                 // Añade la clase 'selected' al botón de hora clicado
                 slot.classList.add('selected');
                 
-                // Actualiza el valor del select de hora con el valor del botón clicado
-                selectedTime.value = slot.value;
+                // Actualiza el valor del campo de texto con el valor del botón clicado
+                timeInput.value = slot.value;
             });
         });
     </script>
