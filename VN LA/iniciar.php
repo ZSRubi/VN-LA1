@@ -95,7 +95,7 @@
                                 <label class="form-check-label text-muted">Al seleccionar esta casilla aceptas nuestro aviso de privacidad y los términos y condiciones</label>
                             </div>
                         </div>
-                        <button class="btn btn-primary width-100">Regístrate</button>
+                        <button class="btn btn-primary width-100">Enviar</button>
                     </form>
                     <small class="d-inline-block text-muted mt-5">Todos los derechos reservados | © 2024 Templune</small>
                 </div>
