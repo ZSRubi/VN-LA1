@@ -61,10 +61,11 @@
            </div>
            <div class="col-xl-7 col-lg-12 d-flex">
                 <div class="container align-self-center p-6">
-                    <h1 class="font-weight-bold mb-3">Crea tu cuenta gratis</h1>
+                    <br>
+                    <h1 class="font-weight-bold mb-3">Contactame a nosotros</h1>
                     <div class="form-group">
-                        <button class="btn btn-outline-dark d-inline-block text-light mr-2 mb-3 width-100"><i class="icon ion-logo-google lead align-middle mr-2"></i> Google </button>
-                        <button class="btn btn-outline-dark d-inline-block text-light mb-3 width-100"><i class="icon ion-logo-facebook lead align-middle mr-2"></i> Facebook</button>
+                        <!--<button class="btn btn-outline-dark d-inline-block text-light mr-2 mb-3 width-100"><i class="icon ion-logo-google lead align-middle mr-2"></i> Google </button>
+                        <button class="btn btn-outline-dark d-inline-block text-light mb-3 width-100"><i class="icon ion-logo-facebook lead align-middle mr-2"></i> Facebook</button>-->
                     </div>
                     <a class="text-muted mb-5">Ingresa la siguiente información para registrarte.</a>
 
@@ -74,15 +75,19 @@
                                 <label class="font-weight-bold">Nombre <span class="text-danger">*</span></label>
                                 <input type="text" class="form-control" placeholder="Tu nombre">
                             </div>
+
                             <div class="form-group col-md-6">
-                                <label class="font-weight-bold">Apellido <span class="text-danger">*</span></label>
+                                <label class="font-weight-bold">Telefono <span class="text-danger">*</span></label>
+                                <input type="text" class="form-control" placeholder="Tu nombre">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label class="font-weight-bold">Correo <span class="text-danger">*</span></label>
+                                <input type="text" class="form-control" placeholder="Tu nombre">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label class="font-weight-bold">Envie su Mensaje <span class="text-danger">*</span></label>
                                 <input type="text" class="form-control" placeholder="Tu apellido">
                             </div>
-                        </div>
-                        
-                        <div class="form-group mb-3">
-                            <label class="font-weight-bold">Contraseña <span class="text-danger">*</span></label>
-                            <input type="password" class="form-control" placeholder="Ingresa una contraseña">
                         </div>
                         <div class="form-group mb-5">
                             <div class="form-check">
