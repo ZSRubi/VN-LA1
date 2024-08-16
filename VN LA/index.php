@@ -55,7 +55,7 @@
 
                 <nav>
                     <ul>
-                        <li><a href="#"> <i class="fas fa-home"></i> RESERVAS </a></li>
+                        <li><a href="reservas.php"> <i class="fas fa-home"></i> RESERVAS </a></li>
                         <li><a href="proyectos.php"> <i class="fa fa-server"> </i>PROYECTOS</a></li>
                         <li><a href="socios.php"> <i class="fa fa-diamond"></i> SERVICIOS</a></li>
                         <li><a href="clientes.php"> <i class="fa fa-diamond"></i> NUESTROS CLIENTES</a></li>
