@@ -123,7 +123,7 @@ header{
     opacity: 0.8;
 }
 
-/*Portada*/
+
 
 
 .container-cover{
@@ -173,7 +173,7 @@ header{
     font-weight: 300;
 }
 
-/*Contenedor - contenido del articulo*/
+
 
 .container-content{
     width: 1200px;
@@ -221,7 +221,7 @@ article img{
     margin-top: 20px;
 }
 
-/*Aside de los articulos de relacionados*/
+
 
 .container-aside aside{
   width: 320px;
@@ -263,7 +263,7 @@ article img{
 
 
 
-/*Footer - pie de pagina*/
+
 
 .container-footer{
     width: 100%;
