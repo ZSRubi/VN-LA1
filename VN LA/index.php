@@ -157,9 +157,9 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
             <P>
               
             </P>
-            <img src="image/V6.png" alt="">
-            <img src="image/V7.png" alt="">
-            <img src="image/V8.png" alt="">
+            <img src="./image/V6.png" alt="">
+            <img src="./image/V7.png" alt="">
+            <img src="./image/V8.png" alt="">
                
             </aside>
 
