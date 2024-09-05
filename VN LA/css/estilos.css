@@ -37,7 +37,7 @@ header{
     color:white;
 }
 .logo  b{
-    color: green;
+    color: #c40909;
 }
 .btn-login {
     padding: 10px 20px;
@@ -48,7 +48,7 @@ header{
   }
 
   .btn-login:hover {
-    background-color: #39b300; /* Un tono más oscuro del azul, si usas btn-primary */
+    background-color: red; /* Un tono más oscuro del azul, si usas btn-primary */
   }
 
 .menu {
@@ -78,7 +78,7 @@ header{
     content: '';
     width: 100%;
     height: 4px;
-    background: #46fd55;
+    background: #c40909;
     position: absolute;
     top: 0;
     left: 0;
@@ -91,11 +91,11 @@ header{
 }
 
 .menu nav ul li a:hover{
-    color: #5bfd46;
+    color: #c40909;
 }
 
 .menu .text-menu-selected{
-    color: #6bfd46;
+    color: #c40909;
 }
 
 .menu nav ul li a i{
@@ -141,7 +141,7 @@ header{
     content: '';
     width: 100%;
     height: 100%;
-    background: rgba(255, 45, 38, 0.075);
+    background: rgba(255, 45, 38, 0.123);
     position: absolute;
     top: 0;
     left: 0;
@@ -160,12 +160,18 @@ header{
     z-index: 1;
 }
 
-.container-info-cover h1{
-    font-size: 60px;
-    font-weight: 500;
-    color: #fff;
-    margin-bottom: 20px;
+.container-info-cover h1 {
+    font-size: 60px;           /* Tamaño de fuente grande */
+    font-weight: 900;          /* Máxima negrita (valor máximo: 900) */
+    color: #ffffff;            /* Color blanco */
+    margin-bottom: 20px;       /* Espacio inferior */
+    text-shadow: 
+        -2px -2px 0 #000000,  
+         2px -2px 0 #000000,
+        -2px  2px 0 #000000,
+         2px  2px 0 #000000; /* Crear un borde negro alrededor del texto */
 }
+
 
 .container-info-cover p{
     color: #fff;
