@@ -1,23 +1,41 @@
-/* ------------------------- */
-/* Estilos Generales */
-/* ------------------------- */
-
 body {
-     background-image: linear-gradient(135deg, #c43e1d 0%,#e9dcd9 50%, #251406 100%);
-}
-
-.titulo {
+     position: relative;
+     margin: 0;
+     height: 100vh;
+     overflow: hidden;
+ }
+ 
+ body::before, body::after {
+     content: "";
+     position: absolute;
+     width: 50%;
+     height: 100%;
+     top: 0;
+ }
+ 
+ body::before {
+     background-color: #990000; /* Rojo */
+     left: 0;
+ }
+ 
+ body::after {
+     background-color: #000000; /* Negro */
+     right: 0;
+ }
+ 
+ 
+ .titulo {
      font-size: 55px;
      text-transform: uppercase;
      letter-spacing: 7px;
-}
-
-.galeria img {
-     box-shadow: 0 8px 10px -4px rgba(235, 230, 230, 0.6);
+ }
+ 
+ .galeria img {
+     box-shadow: 0 8px 10px -4px rgba(145, 4, 4, 0.473);
      border-radius: 15px;
-}
-
-.materialbox-caption {
+ }
+ 
+ .materialbox-caption {
      bottom: 30px;
      right: 0;
      width: 40%;
@@ -29,20 +47,21 @@ body {
      font-size: 20px;
      color: #050505;
      line-height: 28px;
-}
-
-.galeria .col {
+ }
+ 
+ .galeria .col {
      margin-bottom: 20px;
-}
-
-@media screen and (max-width: 600px){
+ }
+ 
+ @media screen and (max-width: 600px) {
      .materialbox-caption {
-          width: 90%;
+         width: 90%;
      }
-}
-
-@media screen and (max-width: 992px){
+ }
+ 
+ @media screen and (max-width: 992px) {
      .materialbox-caption {
-          width: 70%;
+         width: 70%;
      }
-}
+ }
+ 
