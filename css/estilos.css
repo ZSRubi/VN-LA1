@@ -122,6 +122,15 @@ header{
 #icon-menu:hover{
     opacity: 0.8;
 }
+@media screen and (max-width: 800px) {
+    #icon-menu {
+        display: flex; /* Asegúrate de que el ícono del menú se muestre */
+    }
+}
+#icon-menu {
+    box-sizing: border-box;
+    overflow: visible;
+}
 
 
 
@@ -427,4 +436,14 @@ article img{
         flex-wrap: wrap;
     }
 
+}
+.hamburg,
+.cancel{
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    color: white;
+    display: none;
+    font-size: clamp(2.5rem, 0.5rem + 5vw, 3rem);
 }
