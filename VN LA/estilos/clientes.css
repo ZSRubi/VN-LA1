@@ -1,28 +1,4 @@
-body {
-     position: relative;
-     margin: 0;
-     height: 100vh;
-     overflow: hidden;
- }
- 
- body::before, body::after {
-     content: "";
-     position: absolute;
-     width: 50%;
-     height: 100%;
-     top: 0;
- }
- 
- body::before {
-     background-color: #990000; /* Rojo */
-     left: 0;
- }
- 
- body::after {
-     background-color: #000000; /* Negro */
-     right: 0;
- }
- 
+z
  
  .titulo {
      font-size: 55px;
