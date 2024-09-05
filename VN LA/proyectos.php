@@ -34,8 +34,6 @@
 
 
 
-
-
 <body>
 
     <div class="slider">
@@ -46,7 +44,7 @@
 
                 <div class="content">
                     <div class="title"><h2>VIENA INGENIEROS</h2></div>
-                    <div class="type"><h3>SAC</h3></div>
+                    <div class="type"><h3>S.A.C</h3></div>
                     <div class="description">
                         hola m ipsum dolor sit amet consectetur adipisicing elit. Deleniti temporibus quis eum consequuntur voluptate quae doloribus distinctio. Possimus, sed recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aut.
                     </div>
