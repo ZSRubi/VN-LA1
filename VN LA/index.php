@@ -175,8 +175,8 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
 
     <div class="logo">
       <img src="image/VIENA LOGO 1.png" alt="">
-      <p class="logotipo">V
-        IENA INGENIEROS</p>
+      <p class="logotipo">
+        VIENA INGENIEROS</p>
     </div>
     <div class="redes">
       <span class="fb"><a href="https://www.facebook.com/share/p/km9i8R5i9HFm7g9F/" target="_blank"><i class="fab fa-facebook"></i></a></span>
