@@ -47,7 +47,7 @@ body {
          width: 70%;
     }
 }
-.col s12 center-align h1 {
+.col s12 center-align h1{
     font-size: 60px;           /* Tamaño de fuente grande */
     font-weight: 900;          /* Máxima negrita (valor máximo: 900) */
     color: black;            /* Color blanco */
