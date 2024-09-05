@@ -11,14 +11,14 @@
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
      <!-- Estilos CSS -->
-     <link rel="stylesheet" href="./estilos/clientes.css">
+     <link rel="stylesheet" href="./estilos/cl.css">
      
 </head>
 <body>
      <main class="container">
           <div class="row">
                <div class="col s12 center-align">
-                    <h1 class="titulo">CLIENTES</h1>
+                    <h1 class="titulo"> n CLIENTES</h1>
                </div>
           </div>
 
