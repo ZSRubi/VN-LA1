@@ -223,7 +223,7 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
 
 </div>
 
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
