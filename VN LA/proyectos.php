@@ -34,8 +34,6 @@
 
 
 
-
-
 <body>
 
     <div class="slider">
