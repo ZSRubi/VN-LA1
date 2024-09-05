@@ -18,7 +18,7 @@
      <main class="container">
           <div class="row">
                <div class="col s12 center-align">
-                    <h1 class="titulo">NUESTROS CLIENTES</h1>
+                    <h1 class="titulo">CLIENTES</h1>
                </div>
           </div>
 
