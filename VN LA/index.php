@@ -93,10 +93,9 @@
 
         <h1>¿QUIÉNES SOMOS?</h1>
 
-<p>VIENA INGENIEROS S.A.C. es una empresa consultora peruana especializada
-en la elaboración de Expedientes Técnicos de Ingeniería a nivel definitivo y en
-brindar Servicios de Ingeniería que garanticen el desarrollo óptimo de
-Proyectos de Infraestructura en sus diferentes etapas</p>
+<p>VIENA INGENIEROS S.A.C. es una empresa consultora peruana especializada en la elaboración de Expedientes Técnicos de Ingeniería a nivel definitivo y en la prestación de Servicios de Ingeniería que garanticen el desarrollo óptimo de Proyectos de Infraestructura en sus diferentes etapas.
+
+</p>
 
 
             <p>Enfocamos nuestras actividades en los siguientes sectores:</p>
