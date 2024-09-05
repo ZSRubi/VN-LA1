@@ -34,14 +34,14 @@
                <br>
                <div class="material-placeholder"><img src="./LOGO/CHILI.png" alt="" class="responsive-img materialboxed" data-caption="CHILINA."></div>
                <br>
-               <div class="material-placeholder"><img src="./LOGO/la joya.png" alt="" class="responsive-img materialboxed" data-caption="LA JOYA MINIG SAC."></div>
+               <div class="material-placeholder"><img src="./LOGO/mining.png" alt="" class="responsive-img materialboxed" data-caption="LA JOYA MINIG SAC."></div>
           </div>
                
                <div class="col s12 m4 l3">
                     <div class="material-placeholder"> <img src="./LOGO/LV.png" alt="" class="responsive-img materialboxed" data-caption="LIVIT">
                     </div>
                     <br>
-                    <div class="material-placeholder"><img src="./LOGO/arequipa.png" alt="" class="responsive-img materialboxed" data-caption="AREQUIPA ."></div>
+                    <div class="material-placeholder"><img src="./LOGO/arequipa.jpg" alt="" class="responsive-img materialboxed" data-caption="AREQUIPA ."></div>
                     <br>
                     <div class="material-placeholder"><img src="./LOGO/MQ.png" alt="" class="responsive-img materialboxed" data-caption="MARQUISA"></div>
                <br>
@@ -69,7 +69,7 @@
                     <div class="material-placeholder"><img src="./LOGO/CS.png" alt="" class="responsive-img materialboxed" data-caption="CASA"></div>
                </div>
                <div class="col s12 m4 l3">
-                    <div class="material-placeholder"><img src="./LOGO/gobi.png" alt="" class="responsive-img materialboxed" data-caption="GOBIERNO DE AREQUIPA"></div>
+                    <div class="material-placeholder"><img src="./LOGO/gobierno.jpg" alt="" class="responsive-img materialboxed" data-caption="GOBIERNO DE AREQUIPA"></div>
                </div>
                
                <div class="col s12 m4 l3">
