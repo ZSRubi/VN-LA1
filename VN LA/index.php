@@ -191,9 +191,9 @@ disminuyendo así el impacto sobre el medio ambiente.</p>
     <div>
       <h2>Compañia</h2>
       <a href="#">Inicio</a>
-      <a href="#">Reservas</a>
+      <a href="reservas.php">Reservas</a>
       <a href="proyectos.php">Proyectos</a>
-      <a href="">Servicios</a>
+      <a href="servicios.php">Servicios</a>
       <a href="registrate.php">Registrate </a>
     </div>
     <div>
